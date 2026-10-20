@@ -5,17 +5,17 @@
 一张真实图像被拆成 378 个实测方块，再在浏览器里重新归位。没有 React，没有框架，没有构建步骤。
 
 [English README](README.md) ·
-[在线演示](https://YOUR-USERNAME.github.io/YOUR-REPO/) ·
+[GitHub](https://github.com/baju111/baiju-pages) ·
+[在线演示](https://baju111.github.io/baiju-pages/) ·
 [运行方式](#本地运行) ·
 [工作原理](#工作原理)
 
-[![Live demo](https://img.shields.io/badge/demo-live-F26A35?style=flat-square)](https://YOUR-USERNAME.github.io/YOUR-REPO/)
+[![Live demo](https://img.shields.io/badge/demo-live-F26A35?style=flat-square)](https://baju111.github.io/baiju-pages/)
 ![Runtime dependencies](https://img.shields.io/badge/runtime%20deps-0-191919?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-191919?style=flat-square)
+[![Syntax check](https://github.com/baju111/baiju-pages/actions/workflows/check.yml/badge.svg)](https://github.com/baju111/baiju-pages/actions/workflows/check.yml)
 
 ![PIXEL STUDIO — 378 个方块，一张画布](docs/media/hero.gif)
-
-> 启用 GitHub Pages 后，把 `YOUR-USERNAME` 和 `YOUR-REPO` 换成你的地址。
 
 ## 这是什么
 
