@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and local environment
+*.log
+.env
+.env.*
+
+# Node (tests only; the site has no npm dependencies)
+node_modules/
+npm-debug.log*
+
+# Temporary Chrome profiles created by the browser tests
+tests/.chrome-profile
+tests/.chrome-profile-*
+tests/.chrome-profile-*/
+
+# Internal review captures
+.impeccable/
+
+# Local packages
+dist/
+*.zip
