@@ -5,16 +5,16 @@
 A pixel mark extracted from a real image, deconstructed into 378 measured
 squares, and rebuilt in the browser. No React, no framework, no build step.
 
-[Live demo](https://baju111.github.io/baiju-pages/) ·
-[GitHub](https://github.com/baju111/baiju-pages) ·
+[Live demo](https://baiju111.github.io/baiju-pages/) ·
+[GitHub](https://github.com/baiju111/baiju-pages) ·
 [How it works](#how-it-works) ·
 [Run locally](#run-locally) ·
 [中文说明](README.zh-CN.md)
 
-[![Live demo](https://img.shields.io/badge/demo-live-F26A35?style=flat-square)](https://baju111.github.io/baiju-pages/)
+[![Live demo](https://img.shields.io/badge/demo-live-F26A35?style=flat-square)](https://baiju111.github.io/baiju-pages/)
 ![Runtime dependencies](https://img.shields.io/badge/runtime%20deps-0-191919?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-191919?style=flat-square)
-[![Syntax check](https://github.com/baju111/baiju-pages/actions/workflows/check.yml/badge.svg)](https://github.com/baju111/baiju-pages/actions/workflows/check.yml)
+[![Syntax check](https://github.com/baiju111/baiju-pages/actions/workflows/check.yml/badge.svg)](https://github.com/baiju111/baiju-pages/actions/workflows/check.yml)
 
 ![PIXEL STUDIO — 378 cells, one canvas](docs/media/hero.gif)
 
